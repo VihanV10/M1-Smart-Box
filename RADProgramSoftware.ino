@@ -8,7 +8,7 @@
 #define SMTP_PORT 465
 
 #define AUTHOR_EMAIL "testcodegx@gmail.com"
-#define AUTHOR_PASSWORD "houseofcards"
+#define AUTHOR_PASSWORD ""
 
 #define RECIPIENT_EMAIL "flamingburrito1628@gmail.com"
 
